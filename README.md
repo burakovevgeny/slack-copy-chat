@@ -18,6 +18,8 @@ Evgeny Burakov imzhwch@gmail.com
 
 This project is licensed under the MIT License
 
+The server side by https://github.com/mars/heroku-cra-node.git
+
 ### Heroku
 
 https://slack-simple-copy.herokuapp.com/
